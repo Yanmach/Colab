@@ -1,5 +1,6 @@
-# Meu Estilo IA
-
+# Projetos Alura
+#Projeto 1
+Meu Estilo AI
 Funcionalidades Atuais (Demonstração):
 
     Upload de Fotos: Uma interface web simples (construída com Gradio) permite que os usuários tirem fotos ou carreguem imagens de suas roupas.
