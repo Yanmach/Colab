@@ -2,6 +2,8 @@
 
 # Projeto 1 : LookIA
 
+# Link do meu vídeo explicando a visão e ideia do projeto - https://drive.google.com/file/d/1wwH8Jyk7DuRQ8vFr8GTBUFgiu9qtrc-7/view?usp=sharing
+
 # Análise de Looks de Roupa com Gemini Pro Vision no Google Colab
 
 Este projeto demonstra como utilizar o modelo Gemini do Google AI para analisar imagens de looks de roupa. Através de dois agentes distintos, a IA é capaz de identificar as peças presentes, descrever suas características, sugerir a ocasião mais adequada para o look e propor possíveis combinações com outras peças.
@@ -58,6 +60,7 @@ Este projeto pode ser expandido de diversas maneiras, incluindo:
 ## Contribuição
 
 Contribuições para este projeto são bem-vindas! Se você tiver ideias de melhorias, novos agentes ou correções de bugs, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
 
 
 
