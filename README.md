@@ -1,6 +1,6 @@
 # Projetos Alura
 
-# Projeto 1 
+# Projeto 1 : LookIA
 
 # Análise de Looks de Roupa com Gemini Pro Vision no Google Colab
 
